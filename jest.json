@@ -1,0 +1,14 @@
+{
+  "coveragePathIgnorePatterns": ["<rootDir>/node_modules"],
+  "collectCoverageFrom": ["src/**/*.js"],
+  "rootDir": "./",
+  "modulePaths": ["./"],
+  "moduleNameMapper": {
+  },
+  "snapshotSerializers": [
+  ],
+  "globals": {
+  },
+  "setupFiles": []
+}
+

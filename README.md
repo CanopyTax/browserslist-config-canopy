@@ -13,7 +13,7 @@ Notes:
   the snapshot might not be up-to-date when we don't update this repository often. However, it is still hopefully helpful when you make changes just to see which browsers you're now targeting.
 
 ## Usage
-In your package.json, create a browserslist property that extends the canopy config.
+In your package.json, create a browserslist property that extends the canopy config. Read [here](https://github.com/ai/browserslist#shareable-configs) for more details.
 ```json
 {
   "browserslist": [

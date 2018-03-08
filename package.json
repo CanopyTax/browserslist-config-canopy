@@ -4,7 +4,7 @@
   "description": "browsers list config for canopy",
   "main": "src/browserslist-config-canopy.js",
   "repository": "git@github.com:CanopyTax/browserslist-config-canopy.git",
-  "author": "Joel and Jeff",
+  "author": "Joel Denning and Jeff Green",
   "license": "Apache-2.0",
   "scripts": {
     "test": "jest --config jest.json"

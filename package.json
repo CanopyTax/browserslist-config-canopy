@@ -11,7 +11,7 @@
     "watch-tests": "jest --config jest.json --watch"
   },
   "devDependencies": {
-    "browserslist": "^3.1.1",
+    "browserslist": "^4.1.1",
     "jest": "^22.4.2"
   }
 }

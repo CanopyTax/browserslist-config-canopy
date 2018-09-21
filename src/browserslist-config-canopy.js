@@ -1,7 +1,6 @@
 module.exports = [
-  'ie 11',
-  'Safari >= 9',
-  'Edge >= 14',
-  'last 10 Chrome versions',
-  'last 10 Firefox versions',
+  'last 2 Safari versions',
+  'last 3 Edge versions',
+  'last 7 Chrome versions',
+  'last 7 Firefox versions',
 ]

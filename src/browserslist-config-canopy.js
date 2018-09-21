@@ -1,6 +1,6 @@
 module.exports = [
-  'last 2 Safari versions',
-  'last 2 Edge versions',
-  'last 7 Chrome versions',
-  'last 7 Firefox versions',
+  'last 2 Safari major versions',
+  'last 2 Edge major versions',
+  'last 5 Chrome major versions',
+  'last 5 Firefox major versions',
 ]

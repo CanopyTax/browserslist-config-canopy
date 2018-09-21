@@ -7,8 +7,6 @@ Array [
   "chrome 66",
   "chrome 65",
   "chrome 64",
-  "chrome 63",
-  "chrome 62",
   "edge 17",
   "edge 16",
   "firefox 61",
@@ -16,9 +14,9 @@ Array [
   "firefox 59",
   "firefox 58",
   "firefox 57",
-  "firefox 56",
-  "firefox 55",
   "safari 11.1",
   "safari 11",
+  "safari 10.1",
+  "safari 10",
 ]
 `;

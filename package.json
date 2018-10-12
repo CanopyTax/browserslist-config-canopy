@@ -1,6 +1,6 @@
 {
   "name": "browserslist-config-canopy",
-  "version": "1.0.0",
+  "version": "2.0.0-beta.1",
   "description": "browsers list config for canopy",
   "main": "src/browserslist-config-canopy.js",
   "repository": "git@github.com:CanopyTax/browserslist-config-canopy.git",

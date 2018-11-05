@@ -2,6 +2,8 @@
 
 exports[`browserslist-config-canopy exports a valid browserslist config that is what we want for Canopy 1`] = `
 Array [
+  "chrome 70",
+  "chrome 69",
   "chrome 68",
   "chrome 67",
   "chrome 66",
@@ -9,11 +11,13 @@ Array [
   "chrome 64",
   "edge 17",
   "edge 16",
+  "edge 15",
+  "firefox 63",
+  "firefox 62",
   "firefox 61",
   "firefox 60",
   "firefox 59",
-  "firefox 58",
-  "firefox 57",
+  "safari 12",
   "safari 11.1",
   "safari 11",
   "safari 10.1",

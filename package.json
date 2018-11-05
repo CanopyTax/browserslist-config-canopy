@@ -1,6 +1,6 @@
 {
   "name": "browserslist-config-canopy",
-  "version": "1.0.0",
+  "version": "2.0.0-beta.1",
   "description": "browsers list config for canopy",
   "main": "src/browserslist-config-canopy.js",
   "repository": "git@github.com:CanopyTax/browserslist-config-canopy.git",
@@ -11,7 +11,7 @@
     "watch-tests": "jest --config jest.json --watch"
   },
   "devDependencies": {
-    "browserslist": "^3.1.1",
-    "jest": "^22.4.2"
+    "browserslist": "^4.3.4",
+    "jest": "^23.6.0"
   }
 }

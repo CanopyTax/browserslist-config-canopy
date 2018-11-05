@@ -29,17 +29,3 @@ uses browserslist which already looks at your package.json's `"browserslist"` co
   presets: ['@babel/preset-env']
 }
 ```
-
-If you use `css-loader`, you may have issues where it uses an older version of browserslist that doesn't support inheriting configs.
-If so, add the following to your package.json to force css-loader/cssnano/autoprefixer to use a later version of browserslist. You
-can read more about yarn resolutions [here](https://yarnpkg.com/lang/en/docs/selective-version-resolutions/)
-
-Be sure to replace `4.1.1` with the latest version of browserslist!
-
-```json
-{
-  "resolutions": {
-    "browserslist": "4.1.1"
-  }
-}
-```

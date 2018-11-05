@@ -29,3 +29,6 @@ uses browserslist which already looks at your package.json's `"browserslist"` co
   presets: ['@babel/preset-env']
 }
 ```
+
+If you use `css-loader`, you may have issues where it uses an older version of browserslist that doesn't support inheriting configs.
+If so, please upgrade css-loader to at least version 1.0.0.

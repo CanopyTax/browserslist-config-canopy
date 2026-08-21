@@ -5,4 +5,6 @@ module.exports = [
   "last 3 Edge major versions",
   "last 7 Chrome major versions",
   "last 5 Firefox major versions",
+  "not Safari < 16.4",
+  "not iOS < 16.4",
 ];
